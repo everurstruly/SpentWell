@@ -51,8 +51,8 @@ Coming soon — stay tuned for a live demo link!
 
 ## Disclaimer
 
-- Due to the lack of standards and conformity across Web3 financial platforms, integration is **not planned at this time**.
-- Manual data input is **not favored**, to maintain simplicity and consistency.
+- Due to the lack of standards and conformity across Web2 financial platforms, integration is **not planned at this time**.
+- Manual data input is **not encouraged nor planned**, to maintain simplicity and efficiency.
 - You are **solely responsible for any financial outcomes** based on the use of this app.
 - Always consult a **qualified accountant or financial advisor** before making financial decisions.
 
