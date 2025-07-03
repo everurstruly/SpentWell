@@ -1,6 +1,6 @@
 # Wellspent
 
-Wellspent is a cross-platform mobile app that helps you spend wisely by managing your income, wants, needs, and goals, and turning them into smart, actionable allocations, based on sound personal finance principles.
+Wellspent is a cross-platform mobile app that reenforces wise spending by turning your income, wants, needs, and goals into smart allocations and insights, based on sound personal finance principles.
 
 
 ## Feedback
