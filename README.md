@@ -45,8 +45,6 @@ Coming soon — stay tuned for a live demo link!
 
 ## Lessons Learned
 
-1. Implementation of Vue.js
-
 
 
 ## Disclaimer
