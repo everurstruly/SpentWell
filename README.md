@@ -1,6 +1,6 @@
-# Wellspent
+# Greens
 
-Wellspent is a cross-platform mobile app that reenforces wise spending by turning your income, wants, needs, and goals into smart allocations and insights, based on sound personal finance principles.
+Greens is a cross-platform mobile app that reenforces wise spending by turning your income, wants, needs, and goals into smart allocations and insights, based on sound personal finance principles.
 
 
 ## Feedback
